@@ -1,3 +1,10 @@
+raspi2png (0.2-1+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Update package
+
+ -- Mike Roberts <mike@pi-top.com>  Tue, 02 Mar 2021 10:26:40 +0000
+
 raspi2png (0.1-1) unstable; urgency=low
 
   * debianizing https://github.com/AndrewFromMelbourne/raspi2png
